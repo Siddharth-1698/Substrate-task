@@ -5,7 +5,7 @@
 pub use pallet::*;
 
 #[cfg(test)]
-mod mock;
+mod tests;
 
 #[frame_support::pallet]
 pub mod pallet {
