@@ -17,10 +17,13 @@ I have created a pallet called employee and added  the above functions in the Pa
 - to run the unit tests run ```cargo test```
 
 
+## Specs
+<a href="https://drive.google.com/file/d/1zerD9lD5jokWrQQPkt2s0vPkDlK_nmoL/view?usp=share_link">Specs</a>
+
 
 ## Demo video
 
-<a href="https://drive.google.com/file/d/1bff0MipDszUAG7Xt8LLvllNIPOdT4f02/view?usp=share_link"> Demo video</a>
 
-## Specs
-<a href="https://drive.google.com/file/d/1zerD9lD5jokWrQQPkt2s0vPkDlK_nmoL/view?usp=share_link">Specs</a>
+
+https://user-images.githubusercontent.com/66638045/221602255-b48a2160-6cbe-48d4-b7ac-439847f0befb.mp4
+
