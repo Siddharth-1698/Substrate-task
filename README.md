@@ -21,3 +21,6 @@ I have created a pallet called employee and added  the above functions in the Pa
 ## Demo video
 
 <a href="https://drive.google.com/file/d/1bff0MipDszUAG7Xt8LLvllNIPOdT4f02/view?usp=share_link"> Demo video</a>
+
+## Specs
+<a href="https://drive.google.com/file/d/1zerD9lD5jokWrQQPkt2s0vPkDlK_nmoL/view?usp=share_link">Specs</a>
