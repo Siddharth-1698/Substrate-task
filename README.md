@@ -229,3 +229,6 @@ by appending your own. A few useful ones are as follow.
 # Check whether the code is compilable
 ./scripts/docker_run.sh cargo check
 ```
+## Demo video
+
+https://drive.google.com/file/d/1bff0MipDszUAG7Xt8LLvllNIPOdT4f02/view?usp=share_link
